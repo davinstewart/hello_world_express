@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/davinstewart/hello_world_express/issues"
   },
-  "homepage": "https://github.com/davinstewart/hello_world_express#readme"
+  "homepage": "https://github.com/davinstewart/hello_world_express#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
