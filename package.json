@@ -1,0 +1,19 @@
+{
+  "name": "hello_world_express",
+  "version": "1.0.0",
+  "description": "Simple RESTful microservice using Express framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davinstewart/hello_world_express.git"
+  },
+  "author": "Davin Stewart",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davinstewart/hello_world_express/issues"
+  },
+  "homepage": "https://github.com/davinstewart/hello_world_express#readme"
+}
